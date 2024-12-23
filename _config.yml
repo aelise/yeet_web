@@ -11,8 +11,8 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: YeetSale - The World's Fastest Product Photography. Take high-quality background-removed photos of many items at once!
-author: Neural Appworks, LLC
-  name:
+author: 
+  name: Neural Appworks, LLC
   email: contact@neuralappworks.com
   twitter: # twitter username without the @ symbol
 social:
